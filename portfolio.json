@@ -1,0 +1,12 @@
+[
+  {
+    "symbol": "NVDA",
+    "buy_price": 100,
+    "alert_drop_percent": 15
+  },
+  {
+    "symbol": "AAPL",
+    "buy_price": 170,
+    "alert_drop_percent": 10
+  }
+]
